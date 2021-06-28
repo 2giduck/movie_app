@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/seohuiJo/movie_app/static/css/main.d428cdb0.chunk.css",
+    "main.js": "/seohuiJo/movie_app/static/js/main.6d079861.chunk.js",
+    "main.js.map": "/seohuiJo/movie_app/static/js/main.6d079861.chunk.js.map",
+    "runtime-main.js": "/seohuiJo/movie_app/static/js/runtime-main.85dba8fc.js",
+    "runtime-main.js.map": "/seohuiJo/movie_app/static/js/runtime-main.85dba8fc.js.map",
+    "static/js/2.b12bd23d.chunk.js": "/seohuiJo/movie_app/static/js/2.b12bd23d.chunk.js",
+    "static/js/2.b12bd23d.chunk.js.map": "/seohuiJo/movie_app/static/js/2.b12bd23d.chunk.js.map",
+    "index.html": "/seohuiJo/movie_app/index.html",
+    "static/css/main.d428cdb0.chunk.css.map": "/seohuiJo/movie_app/static/css/main.d428cdb0.chunk.css.map",
+    "static/js/2.b12bd23d.chunk.js.LICENSE.txt": "/seohuiJo/movie_app/static/js/2.b12bd23d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85dba8fc.js",
+    "static/js/2.b12bd23d.chunk.js",
+    "static/css/main.d428cdb0.chunk.css",
+    "static/js/main.6d079861.chunk.js"
+  ]
+}
