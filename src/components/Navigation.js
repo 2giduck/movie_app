@@ -4,7 +4,7 @@ import "./Navigation.css";
 
 function Navigation(){
     return (
-    <div>
+    <div className="nav">
         <Link to="/">Home</Link>
         <Link to={{pathname: "/about", state: {fromNabvigation: true}}}>About</Link>
     </div>);
